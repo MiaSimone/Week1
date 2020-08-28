@@ -1,5 +1,8 @@
 # Week1
 
+Serverip: 157.230.123.64
+---------------------------------------------------------------------------------------------------------------------------------
+
 Tuesday1 - "firstjpa": 
   Entity klassen Conuntry.java --> noter om at ændre kollonner og tabellers navne.
   Der laves entityfactory og manager og lavet transactions og deraf persist.
